@@ -1,4 +1,5 @@
 Brazilian E-Commerce Analytics (Olist) - End-to-End Data Project
+
 📌 Project Overview
 This project is an end-to-end data analytics solution designed to extract, transform, and visualize real-world e-commerce data from Olist, the largest department store in Brazilian marketplaces. The goal of this project is to analyze operational performance, sales trends, and logistics efficiency across 100,000+ anonymized orders to provide actionable business intelligence.
 
