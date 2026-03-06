@@ -56,6 +56,5 @@ Freight Impact: Based on the scatter plot analysis, customers paying higher frei
 (Upload your screenshots to your GitHub repository and link them here so recruiters can see your work immediately!)
 
 👨‍💻 Author
-M Nikhil [https://www.linkedin.com/in/m-nikhil-0b5a84338/]
-
+M Nikhil [https://www.linkedin.com/in/m-nikhil-
 [Link to your Portfolio/Resume]
